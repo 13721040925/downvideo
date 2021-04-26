@@ -17,7 +17,7 @@
 		<base64.version>2.3.9</base64.version>
 		<commons-collections4.v>4.2</commons-collections4.v>
 		<commons-fileupload.v>1.3.3</commons-fileupload.v>
-		<commons-io.v>2.4</commons-io.v>
+		<commons-io.v>2.7</commons-io.v>
 		<jstl.version>1.2</jstl.version>
 		<poi.version>3.17</poi.version>
 		<xmlbeans.v>2.6.0</xmlbeans.v>
